@@ -4,7 +4,7 @@ I've have been into coding since I was a kid, and I get to do my hobby for a job
 
 I have worked for The Access Group, Xamarin and Microsoft and am currently working for [Evoke Systems](https://www.evoke-systems.aero/). I am also working on [RainyDay Backup](https://www.copidal.com), a backup system for Azure DevOps and [Version Changer for Visual Studio](https://github.com/newky2k/VersionChangerAddin), an addin for updating project version numbers.
 
-When not working for money, I spend my time on my opensource projects like [Cross-platform Bluetooth library](https://github.com/newky2k/DSoft.System.BluetoothLe), [Cross-platrfrom MVVM library](https://github.com/newky2k/System.Mvvm), [Web-API client library for JSON and gRPC](https://github.com/newky2k/PortableWebClient) and many others.
+When not working for money, I spend my time on my opensource projects like [Cross-platform Bluetooth library](https://github.com/newky2k/DSoft.System.BluetoothLe), [Cross-platform MVVM library](https://github.com/newky2k/System.Mvvm), [Web-API client library for JSON and gRPC](https://github.com/newky2k/PortableWebClient) and many others.
 
 
 <!--
